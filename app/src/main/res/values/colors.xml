@@ -1,0 +1,11 @@
+<resources>
+    <!-- keep resource names, change palette to blue -->
+    <color name="purple_200">#7DB6E6</color>
+    <color name="purple_500">#4184C5</color>
+    <color name="purple_700">#346A9E</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_capture">#D32F2F</color>
+</resources>

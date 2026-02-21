@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ParcelCam</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="btn_settings">Settings</string>
+    <string name="btn_switch_camera">Switch</string>
+    <string name="photos_count">Photos: %1$d / %2$d</string>
+
+    <string name="save_to_gallery">Save to gallery</string>
+    <string name="delete_local_after_upload">Delete local after upload</string>
+    <string name="required_photos">Required photos</string>
+
+    <string name="method">Upload method</string>
+    <string name="method_smb">SMB (Windows share)</string>
+    <string name="method_ftp">FTP</string>
+    <string name="method_ftps">FTPS</string>
+    <string name="method_sftp">SFTP</string>
+
+    <string name="server">Server</string>
+    <string name="share">Share</string>
+    <string name="remote_path">Remote path</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="domain_optional">Domain (optional)</string>
+
+    <string name="jpeg_quality">JPEG quality</string>
+    <string name="max_resolution">Max resolution</string>
+
+    <string name="test_connection">Test connection</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="uploading">Uploading…</string>
+    <string name="upload_success">Upload success</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="retry">Retry</string>
+    <string name="method_lis">LIS Kamera</string>
+</resources>
