@@ -35,3 +35,24 @@ startActivity(i)
 ## Notes
 - SMB uses `jcifs-ng`. Credentials support both `DOMAIN\user` and `user@domain.tld`.
 - SFTP host key verification is set to accept-all for MVP. For production, pin host keys.
+## ❤️ Support Development
+
+KioskBrowser is completely free software.
+
+If this project helps you or your company,
+consider supporting further development.
+
+### PayPal Donation
+
+Scan the QR code below:
+
+<p align="center">
+  <img src="docs/paypal-qr.jpg" width="280" alt="PayPal QR Code">
+</p>
+
+Or donate directly via PayPal:
+https://www.paypal.me/aweiss7
+
+Every contribution supports continued development and maintenance.
+
+Thank you for supporting independent industrial software.
